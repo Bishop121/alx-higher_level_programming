@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 def list_division(my_list_1, my_list_2, list_length):
     new_list = []
@@ -19,4 +18,3 @@ def list_division(my_list_1, my_list_2, list_length):
             pass
         new_list.append(temp_result)
     return new_list
-
